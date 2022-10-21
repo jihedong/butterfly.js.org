@@ -1,3 +1,8 @@
+highlight_theme: mac
+
+cover:
+  index_enable: false
+
 menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
