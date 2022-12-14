@@ -7,7 +7,7 @@ title: 海绵宝宝乔治儿の岁月史书
 subtitle: '孙笑川吧冲锋队队长 巴基海贼团副团长'
 description: '此时无声胜有声'
 keywords: 
-author: JiHe Dong
+author: jihe_dong
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -41,6 +41,9 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
